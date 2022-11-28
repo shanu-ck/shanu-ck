@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @shanu-ck
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning QA
+- 🌱 I’m currently learning QE
 - 💞️ I’m looking to collaborate on Test Automation Projects
