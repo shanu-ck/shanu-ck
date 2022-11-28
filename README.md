@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shanu-ck
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning QA and DevOps
+- 🌱 I’m currently learning QA
 - 💞️ I’m looking to collaborate on Test Automation Projects
-- 📫 How to reach me shanu.dey@cloudkaptan.com
