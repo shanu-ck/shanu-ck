@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shanu
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning QE
-- 💞️ I’m looking to collaborate on Automation Projects
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on software related projects
